@@ -1,0 +1,203 @@
+Last login: Fri Dec 27 13:55:30 on console
+husnas-mbp:~ Husna$ git --help
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+husnas-mbp:~ Husna$ git --help
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+husnas-mbp:~ Husna$ git--help
+-bash: git--help: command not found
+husnas-mbp:~ Husna$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+husnas-mbp:~ Husna$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+husnas-mbp:~ Husna$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+husnas-mbp:~ Husna$ lear
+-bash: lear: command not found
+husnas-mbp:~ Husna$ clear
+
+husnas-mbp:~ Husna$ git -- help
+Unknown option: --
+usage: git [--version] [--help] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+husnas-mbp:~ Husna$ cear
+-bash: cear: command not found
+husnas-mbp:~ Husna$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+husnas-mbp:~ Husna$ git clone [https://github.com/husnasidd/GitPlayground.git] GitPlayground
+Cloning into 'GitPlayground'...
+fatal: I don't handle protocol '[https'
+husnas-mbp:~ Husna$ git clone https://github.com/husnasidd/GitPlayground.git GitPlayground
+Cloning into 'GitPlayground'...
+remote: Counting objects: 59, done.
+remote: Compressing objects: 100% (37/37), done.
+remote: Total 59 (delta 10), reused 59 (delta 10)
+Unpacking objects: 100% (59/59), done.
+Checking connectivity... done
+husnas-mbp:~ Husna$ ls
+Desktop		Downloads	Library		Music		Public
+Documents	GitPlayground	Movies		Pictures
+husnas-mbp:~ Husna$ cd GitPlayground
+husnas-mbp:GitPlayground Husna$ ls
+C#		Git Tutorial	Python		Ruby
+CMDL		Javascript	README.md	new  3.txt
+husnas-mbp:GitPlayground Husna$ git remote -v
+origin	https://github.com/husnasidd/GitPlayground.git (fetch)
+origin	https://github.com/husnasidd/GitPlayground.git (push)
+husnas-mbp:GitPlayground Husna$ git remote add upstream https://github.com/micole/GitPlayground.git
+husnas-mbp:GitPlayground Husna$ git remote -v
+origin	https://github.com/husnasidd/GitPlayground.git (fetch)
+origin	https://github.com/husnasidd/GitPlayground.git (push)
+upstream	https://github.com/micole/GitPlayground.git (fetch)
+upstream	https://github.com/micole/GitPlayground.git (push)
+husnas-mbp:GitPlayground Husna$ git checkout -b branch-play
+Switched to a new branch 'branch-play'
+husnas-mbp:GitPlayground Husna$ nano husna
+
+
+
+  GNU nano 2.0.6                         File: husna                                                Modified  
+
+am I doing this right?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help       ^O WriteOut       ^R Read File      ^Y Prev Page      ^K Cut Text       ^C Cur Pos
+^X Exit           ^J Justify        ^W Where Is       ^V Next Page      ^U UnCut Text     ^T To Spell
